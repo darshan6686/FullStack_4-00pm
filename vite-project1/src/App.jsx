@@ -5,7 +5,10 @@ function App() {
 
 
   return (
-   <h1>welcome darshan pansheriya</h1>
+   <div>
+     <h1>darshan pansheriya</h1>
+     <p>welcome to skillqode. i am a full stack devoloper</p>
+   </div>
   )
 }
 
