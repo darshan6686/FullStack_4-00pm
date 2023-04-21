@@ -1,38 +1,41 @@
+*{
+  margin: 0px;
+}
 .container{
   background-image: linear-gradient(to right,rgb(0, 217, 255),purple);
-  height: 800px;
-  width: 100%;
-  position: relative;
+  /* height: 800px; */
+  /* width: 100%; */
+  /* position: relative; */
 }
-.fom{
+/* .fom{
   height: auto;
   width: 30%;
   background-color: white;
   position: absolute;
   left: 35%;
   top: 20%;
-}
-h1{
+} */
+/* h1{
   text-align: center;
   margin-top: 50px;
   font-weight: bold;
   font-size: 40px;
-}
-.fom-1{
+} */
+/* .fom-1{
   text-align: left;
   height: auto;
   margin-bottom: 20px;
   margin-left: 5%;
-}
-input{
+} */
+/* input{
   width: 90%;
   height: 40px;
   font-size: 20px;
-}
-.lab{
+} */
+/* .lab{
   color: rgb(29, 29, 247);
-}
-button{
+} */
+/* button{
   width: 80%;
   height: 40px;
   background-image: linear-gradient(to right,rgb(0, 217, 255),purple);
@@ -42,9 +45,12 @@ button{
   margin-top: 30px;
   margin-left: 9%;
   margin-bottom: 20px;
+} */
+button{
+  background-image: linear-gradient(to right,rgb(0,217,255),purple);
 }
-footer{
+/* footer{
   text-align: center;
   margin-top: 20px;
   padding-bottom: 40px;
-}
+} */
