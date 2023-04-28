@@ -5,6 +5,7 @@ import Model from "./components/Model"
 import Register from "./components/Form/register"
 import Login from "./components/Form/login"
 import Footer from "./components/Footer"
+import Cardlist from "./components/Cardlist"
 
 function App() {
 
@@ -15,9 +16,10 @@ function App() {
       <Navi></Navi>
       {/* <Card></Card> */}
       {/* <Model></Model> */}
-      <Register></Register>
+      {/* <Register></Register> */}
       {/* <Login></Login> */}
-      <Footer></Footer>
+      <Cardlist></Cardlist>
+      {/* <Footer></Footer> */}
     </div>
   )
 }
