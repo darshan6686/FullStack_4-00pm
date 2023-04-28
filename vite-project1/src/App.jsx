@@ -19,7 +19,7 @@ function App() {
       {/* <Register></Register> */}
       {/* <Login></Login> */}
       <Cardlist></Cardlist>
-      {/* <Footer></Footer> */}
+      <Footer></Footer>
     </div>
   )
 }
